@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wisfa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wisfa\\.nuget\\packages"
+    ]
+  }
+}
